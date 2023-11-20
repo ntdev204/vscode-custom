@@ -1,0 +1,14 @@
+{
+  "workbench.colorCustomizations": {
+    "[One Dark Pro]": {
+      "tab.activeBorder": "#282c34"
+    }
+  },
+  "vscode_custom_css.imports": [
+    "file:///D:/VSC-Custom/oneDarkPro/css_styles.css",
+    "file:///D:/VSC-Custom/oneDarkPro/animation.css",
+    "file:///D:/VSC-Custom/oneDarkPro/activity_bar.css",
+    "file:///D:/VSC-Custom/oneDarkPro/cursor.css",
+    "file:///D:/VSC-Custom/oneDarkPro/tab_bar.css"
+  ]
+}

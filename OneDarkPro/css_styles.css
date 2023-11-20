@@ -1,0 +1,59 @@
+
+.mtk5 {
+  color: transparent;
+  background-image: linear-gradient(to right, #fc6c8f, #ffb86c);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  font-family: "Dank mono", monospace;
+  font-style: italic;
+}
+
+.mtk6 {
+  color: transparent;
+  background-image: linear-gradient(to right, #fb9f3d, #ffdd6c);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+.mtk10, .mtk7 {
+  color: transparent;
+  background-image: linear-gradient(to right bottom,#098dff, #2cccff);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+
+.mtk3 {
+  color: transparent;
+  background-image: linear-gradient(to right, #e06c6c, #fc6cb2);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  font-style: italic;
+}
+
+.mtk4 {
+  color: transparent;
+  background-image: linear-gradient(to right, #6a5af9, #d66efd);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+}
+
+.mtk9 {
+  color: transparent;
+  background-image: linear-gradient(
+    to right,
+    #4dd78a,
+    #20e3b2,
+    #a2de6a
+  );
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  font-family: "Dank mono", monospace;
+  font-style: italic;
+}

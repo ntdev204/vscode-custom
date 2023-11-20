@@ -1,0 +1,28 @@
+.monaco-workbench
+  .activitybar
+  > .content
+  :not(.monaco-menu)
+  > .monaco-action-bar
+  .action-item.checked
+  .active-item-indicator:before {
+  content: "";
+  border: 0;
+  width: 1.5px;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-size: 400% 400%;
+  background-image: linear-gradient(
+    -45deg,
+    #fc6c8f,
+    #ff2ced,
+    #ffb86c,
+    #2cccff,
+    #20e3b2,
+    #ffcc70,
+    #c850c0,
+    #4158d0
+  );
+  animation: gradient-vertical 5s ease alternate infinite;
+}
