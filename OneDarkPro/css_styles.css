@@ -11,15 +11,16 @@
 
 .mtk6 {
   color: transparent;
-  background-image: linear-gradient(to right, #fbc53d, #ffdd6c);
   background-clip: text;
+  background-image: linear-gradient(to right, #f8d150, #faff6c);
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
+  font-style: italic;
 }
 
 .mtk10, .mtk7 {
   color: transparent;
-  background-image: linear-gradient(to right bottom,#098dff, #2cccff);
+  background-image: linear-gradient(to right, #098dff, #2cccff);
   background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
@@ -28,7 +29,7 @@
 
 .mtk3 {
   color: transparent;
-  background-image: linear-gradient(to right, #e06c6c, #fc6cb2);
+  background-image: linear-gradient(to right, #fc5e5e, #fc6cd3);
   background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
