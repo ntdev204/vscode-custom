@@ -1,3 +1,10 @@
+:root {
+  --gradient-dir1: to top right;
+  --gradient-dir2: to bottom left;
+  --gradient-dir3: to right top;
+  --gradient-dir4: to left bottom;
+  --gradient-dir5: to top left;
+}
 
 .mtk5 {
   color: transparent;
@@ -12,20 +19,24 @@
 .mtk6 {
   color: transparent;
   background-clip: text;
-  background-image: linear-gradient(to right, #f8d150, #faff6c);
+  background-image: linear-gradient(
+    to right top,
+    #fceabb,
+    #f8db00
+  );
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   font-style: italic;
 }
 
-.mtk10, .mtk7 {
+.mtk10,
+.mtk7 {
   color: transparent;
   background-image: linear-gradient(to right, #098dff, #2cccff);
   background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
-
 
 .mtk3 {
   color: transparent;
@@ -46,12 +57,7 @@
 
 .mtk9 {
   color: transparent;
-  background-image: linear-gradient(
-    to right,
-    #4dd78a,
-    #20e3b2,
-    #a2de6a
-  );
+  background-image: linear-gradient(to right, #4dd78a, #20e3b2, #a2de6a);
   background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
