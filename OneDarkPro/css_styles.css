@@ -11,7 +11,7 @@
 
 .mtk6 {
   color: transparent;
-  background-image: linear-gradient(to right, #fb9f3d, #ffdd6c);
+  background-image: linear-gradient(to right, #fbc53d, #ffdd6c);
   background-clip: text;
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
