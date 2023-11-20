@@ -1,6 +1,7 @@
 :root {
   --size: 5px;
 }
+
 .monaco-workbench
   .part.editor
   > .content
@@ -32,7 +33,6 @@
   .tabs-container
   > .tab.active.tab-border-bottom
   > .tab-border-top-container:after {
-  z-index: 100;
   content: "";
   width: var(--size);
   height: var(--size);
@@ -83,7 +83,6 @@
   > .title
   .tabs-container
   > .tab.active:after {
-  z-index: 100;
   content: "";
   width: var(--size);
   height: var(--size);

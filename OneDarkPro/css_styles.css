@@ -19,11 +19,7 @@
 .mtk6 {
   color: transparent;
   background-clip: text;
-  background-image: linear-gradient(
-    to right top,
-    #fceabb,
-    #f8db00
-  );
+  background-image: linear-gradient(to right top, #fceabb, #f8db00);
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
   font-style: italic;
